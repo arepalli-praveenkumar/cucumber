@@ -15,4 +15,4 @@ for everyone on the team.
 
 ![Single Source of Truth](docs/images/single-source-of-truth-256x256.png)
 
-Cucumber is compatible with all the major software platforms.
+Cucumber is compatible with all the major software platforms example.
